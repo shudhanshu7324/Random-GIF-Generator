@@ -1,3 +1,11 @@
-export default function Random() {
-  return <div>Random</div>;
+import React from 'react'
+
+const Random = () => {
+  return (
+    <div>
+      
+    </div>
+  )
 }
+
+export default Random
